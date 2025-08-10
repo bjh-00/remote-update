@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Initial release of the app.",
+  "pub_date": "2025-08-10T00:00:00+00:00",
+  "platforms": {
+    "win64": {
+      "url": "https://your-download-link.com/yourapp-win64.zip",
+      "signature": "REPLACE_WITH_SIGNATURE"
+    }
+  }
+}
